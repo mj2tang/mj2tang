@@ -40,8 +40,8 @@
 ### 📈 GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mj2tang&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj2tang&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 ### 🐍 Contributions
