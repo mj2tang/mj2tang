@@ -44,6 +44,13 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj2tang&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
 </p>
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mj2tang/mj2tang/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mj2tang/mj2tang/output/github-snake.svg"/>
+</picture>
+
 ---
 
 <p align="center"><i>Currently exploring: agent evaluation, Claude Code workflows, and LLMs for analytics.</i></p>
